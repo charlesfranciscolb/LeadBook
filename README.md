@@ -6,6 +6,8 @@ save them in an output file.
 You should use python language(Version 3.xx) for this programming task. Feel free to use
 any framework/library(requests, selenium, scrapy etc.).
 
+<br>NOTE: company_profiles.json will only contain a partial amount of the data as per requirement. The entire website is not advisable to scrape data from A-Z web pages since I do not have proxies to continuously hit the website. Hitting the website with standard IP address may lead to Legal Issues<br><br>
+
 <b>Tools Used</b>:<br>
 <ul>
   <li>Python Version 3.6 and above</li>
